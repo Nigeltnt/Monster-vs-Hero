@@ -1,5 +1,5 @@
 #Monster-vs-Hero
-This game is a simulation based on a player and enemy formally named Hero and Enemy.
+This game is a simulation based on a player and enemy formally named Hero and Monster.
 Both players start with the same health of 10.
 The hero rolls a dice and thus subtract from the Monster health and if the Monster health is greater than 0 then they get their turn to roll the dice and subtract health from the Hero.
 This is done until either one of them have health of less or equal to 0.
